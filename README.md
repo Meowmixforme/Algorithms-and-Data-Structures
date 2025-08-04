@@ -6,6 +6,9 @@ This project contains solutions to various linked list problems as part of a fir
 - **Doubly Linked List**
 - **Circular Linked List**
 
+<img width="1536" height="1024" alt="Create a cartoonish " src="https://github.com/user-attachments/assets/0cc82a70-c3a7-4eb0-84f2-60c27d96e61c" />
+
+
 ## Structure
 
 The main implementations can be found in the `src/uk/ac/tees/linkedlistica/` directory:
